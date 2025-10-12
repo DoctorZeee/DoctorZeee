@@ -20,12 +20,12 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 ## 🛠️ Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -52,11 +52,11 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorZeee&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZeee&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DoctorZeee&theme=radical&hide_border=true)
   
 </div>
 
@@ -64,20 +64,20 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=DoctorZeee&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
 </div>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorZeee&theme=react-dark&hide_border=true)
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true)](https://github.com/yourusername/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true)](https://github.com/yourusername/project2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoctorZeee&repo=project1&theme=radical&hide_border=true)](https://github.com/DoctorZeee/project1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoctorZeee&repo=project2&theme=radical&hide_border=true)](https://github.com/DoctorZeee/project2)
 
 </div>
 
@@ -96,8 +96,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=DoctorZeee&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  **⭐️ From [yourusername](https://github.com/yourusername)**
+  **⭐️ From [DoctorZeee](https://github.com/DoctorZeee)**
   
 </div>
