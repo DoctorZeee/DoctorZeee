@@ -1,103 +1,95 @@
-# Hi there, I'm [Your Name] 👋
+# Hai, saya Dimas 👋
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
-  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Web+Developer+%7C+Laravel+%26+Filament;Embedded+Systems+%26+Robotics;Mahasiswa+Informatika+UNSOED)
+
 </div>
 
-## 🚀 About Me
+## 🚀 Tentang Saya
 
-I'm a passionate developer who loves creating innovative solutions and contributing to open source projects. I believe in writing clean, maintainable code and continuously improving my skills.
+Saya **Dimas Rafif Zaidan**, mahasiswa Informatika di **Universitas Jenderal Soedirman (UNSOED)**. Saya mengerjakan pengembangan web untuk klien secara freelance, mulai dari komunikasi kebutuhan sampai aplikasi live, dan di sisi lain tertarik pada **embedded system dan robotika**.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Types of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+Saya suka memahami alasan di balik sebuah solusi, bukan sekadar mendapatkan kodenya jadi.
+
+- 🔭 Sedang mengerjakan: **robot hexapod** (Arduino Due + FreeRTOS + ROS) dan aplikasi web berbasis **Laravel 13 + Filament v5** untuk klien
+- 🌱 Sedang mendalami: **FreeRTOS**, **Go (Fiber)**, dan infrastruktur (Nginx, Docker Compose, monitoring)
+- 👯 Terbuka untuk kolaborasi: proyek web Laravel, robotika/embedded, dan kompetisi
+- 💬 Tanya saya tentang: Laravel/Filament, deploy ke shared hosting, PlatformIO, Linux (Fedora)
+- 📫 Kontak: **[isi email kamu]**
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Bahasa
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### Web
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Fiber](https://img.shields.io/badge/-Go%20Fiber-00ACD7?style=flat-square&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Embedded & Robotika
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-3DA639?style=flat-square)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+### Infrastruktur & Tools
+![Linux](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🎯 Proyek Pilihan
+
+| Proyek | Deskripsi | Teknologi |
+|---|---|---|
+| 🕷️ **Hexapod Robot** | Robot berkaki enam yang awalnya dibuat untuk kompetisi robot SAR (penyelamatan korban). Dimigrasikan ke PlatformIO dan dikembangkan dengan FreeRTOS serta rosserial. | Arduino Due, PlatformIO, FreeRTOS, ROS |
+| 🏥 **Dashboard Monitoring Kesehatan** | Aplikasi web untuk klien dengan peran admin, kader, dan puskesmas. Ada modul materi edukasi, statistik warga, dan kuesioner anonim via QR code. Dideploy di shared hosting. | Laravel 13, PHP 8.4, Vite |
+| 🧵 **Manajemen Pesanan Jahit** | Aplikasi pengelolaan pesanan untuk usaha jahit keluarga, lengkap dengan role, policy, dan antrean email. | Laravel 13, Filament v5, Livewire |
+| ✅ **Todo List Gamifikasi** | Tugas kelompok: aplikasi todo dengan elemen gamifikasi. | Go, Fiber v2 |
+| 🐧 **FEDORA-LINUX** | Dokumentasi setup Fedora Workstation pribadi yang terawat dan bisa direproduksi. | Linux, zsh, kitty |
+
+> 💡 Tambahkan tautan repo yang publik pada tabel di atas. Proyek klien sebaiknya tidak ditautkan jika kodenya private.
+
+## 📚 Latar Belakang Akademik
+
+- Praktikum pemrograman web (PHP, CodeIgniter 3)
+- Mata kuliah sistem tertanam: FreeRTOS, serial UART/I2C, interrupt dan timer
+- Infrastruktur: Docker Compose, Nginx load balancing, DNS (Bind9), Suricata IDS, monitoring Loki/Promtail/Grafana
+- Simulasi: migrasi MATLAB ke Python dengan GUI Tkinter animasi
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorZeee&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZeee&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DoctorZeee&theme=radical&hide_border=true)
-  
-</div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=DoctorZeee&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-  
-</div>
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorZeee&theme=react-dark&hide_border=true)
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoctorZeee&repo=project1&theme=radical&hide_border=true)](https://github.com/DoctorZeee/project1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DoctorZeee&repo=project2&theme=radical&hide_border=true)](https://github.com/DoctorZeee/project2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorZeee&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorZeee&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-## 🌐 Connect with Me
+## 🌐 Terhubung dengan Saya
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ISI-USERNAME-KAMU)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ISI-EMAIL-KAMU)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=DoctorZeee&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  **⭐️ From [DoctorZeee](https://github.com/DoctorZeee)**
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=DoctorZeee&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
