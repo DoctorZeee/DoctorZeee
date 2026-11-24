@@ -8,7 +8,7 @@
 
 ## 🚀 Tentang Saya
 
-Saya **Dimas Rafif Zaidan**, mahasiswa Informatika di **Universitas Jenderal Soedirman (UNSOED)**. Saya mengerjakan pengembangan web untuk klien secara freelance, mulai dari komunikasi kebutuhan sampai aplikasi live, dan di sisi lain tertarik pada **embedded system dan robotika**.
+Saya **Dimas Rafif Zaidan**, mahasiswa Teknik Komputer di **Universitas Jenderal Soedirman (UNSOED)**. Saya mengerjakan pengembangan web untuk klien secara freelance, mulai dari komunikasi kebutuhan sampai aplikasi live, dan di sisi lain tertarik pada **embedded system dan robotika**.
 
 Saya suka memahami alasan di balik sebuah solusi, bukan sekadar mendapatkan kodenya jadi.
 
